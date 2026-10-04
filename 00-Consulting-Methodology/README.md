@@ -154,6 +154,45 @@ Key principles include:
 * Changes to the AI system, data, model, or operating environment should trigger appropriate reassessment.
 
 ---
+## Document Naming Independence
+
+AI governance standards do not require organizations to use a universal naming convention for governance documents.
+
+Therefore, the assessment should not assume that a specific governance requirement must be represented by a document with a particular name.
+
+The assessment should evaluate evidence based on:
+
+* Content
+* Purpose
+* Ownership
+* Applicability
+* Implementation
+* Objective evidence
+* Control effectiveness
+
+Equivalent governance evidence may exist across different organizational documents, procedures, workflows, systems, or records.
+
+### Assessment Approach
+
+Instead of:
+
+**Framework Requirement → Expected Document Name**
+
+the assessment uses:
+
+**Framework Requirement → Evidence Required → Client Artifact → Evidence Mapping → Implementation → Effectiveness**
+
+For example, an organization may not have a document called **"AI Risk Assessment."** Relevant evidence could instead exist within a broader enterprise risk assessment, model risk process, technology risk procedure, or AI lifecycle workflow.
+
+Therefore, the absence of a document with a particular title should not automatically be recorded as a governance gap.
+
+The appropriate consulting question is:
+
+> **"Is there sufficient evidence that the required governance activity is defined, implemented, and effective?"**
+
+This approach prevents the assessment from becoming a document-name checklist and allows the assessment to remain focused on the actual governance capability.
+
+---
 
 ## Portfolio Approach
 
