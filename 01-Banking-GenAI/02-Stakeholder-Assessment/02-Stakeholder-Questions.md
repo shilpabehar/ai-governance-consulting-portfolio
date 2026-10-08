@@ -1,97 +1,174 @@
-2. AI Policy & Organizational Objectives
-2.1 Assessment Objective
-Determine whether the organization's AI policy is supported by clear organizational objectives, leadership direction, and a defined purpose for the use of AI.`
+Stakeholder Interview 02 – Roles, Responsibilities & Leadership Accountability
 
-The assessment should establish whether the policy is simply a set of general principles or whether it provides clear direction for how AI supports the organization's business objectives and risk posture.
+Engagement: Simulated AI Governance Assessment
+Assessment Area: Leadership, Roles & Accountability
+Frameworks: ISO/IEC 42001, NIST AI RMF
+Stakeholder: AI Governance / Business Management Representative
+Interview Status: Completed
+Assessment Date: October 08 2026
 
-2.2 Initial Observation from Document Review
+1. Objective
 
-The reviewed AI policy contains general statements regarding responsible and appropriate use of AI but does not clearly articulate:
+Validate whether the organization has established clear roles, responsibilities, authority, and accountability for the governance and management of AI-related activities.
 
-The organization's overall vision or objectives for AI.
-How AI supports organizational or business objectives.
-The organization's desired risk posture for AI adoption.
-How AI priorities are established and communicated by leadership.
-How the policy translates into operational objectives and responsibilities.
+The assessment specifically evaluates whether accountability extends beyond technical teams and whether management understands who is responsible for AI-related decisions, risks, controls, and escalation.
 
-Status: Potential gap requiring stakeholder validation.
+2. Initial Observation
 
-2.3 Primary Stakeholder Question
-“Can you explain what the organization's overall objectives are for using AI, and how those objectives are reflected in the current AI policy?”
-“What specific business or organizational outcomes are you expecting AI to achieve?”
-“How were these AI objectives established, and which leadership or management roles were involved?”
-“How do you determine whether a proposed AI initiative is aligned with these objectives?”
-“How are these objectives communicated to teams involved in developing, deploying, or using AI?”
+During the document review, the organization had identified several responsibilities associated with AI use. However, the reviewed documentation did not clearly demonstrate:
 
-Risk / Governance Probe
-“How do you balance the organization's objectives for AI adoption with the risks associated with AI use?”
-“Is there a defined risk appetite or decision framework that helps determine which AI use cases are acceptable, require additional controls, or should not be pursued?”
+A comprehensive accountability structure for AI.
+Clear ownership of AI-related risks.
+Defined decision-making authority for AI initiatives.
+Clear ownership for monitoring AI controls.
+Escalation responsibilities when AI risks or incidents are identified.
+Evidence of management oversight across the AI lifecycle.
 
-2.4 Evidence Requested
+Initial assessment: Potential gap requiring stakeholder validation.
 
-Request evidence that demonstrates that AI objectives are established and actively governed, such as:
+3. Stakeholder Discussion
+Question 1 – Accountability
 
-AI strategy or roadmap
-AI policy and supporting procedures
-Business or organizational strategy referencing AI
-AI governance committee/steering committee records
-Leadership meeting records or decisions
-AI portfolio or use-case prioritization criteria
-AI investment/prioritization documentation
-Defined AI objectives or KPIs
-Risk appetite or AI risk criteria, where applicable
+Consultant:
 
-2.5 What Good Evidence Looks Like
-A mature organization should be able to demonstrate a clear chain:
+“Who is ultimately accountable for ensuring that AI-related risks are identified, managed, and monitored throughout the AI lifecycle?”
 
-Organizational Strategy
-↓
-AI Objectives
-↓
-AI Policy
-↓
-AI Governance & Decision Making
-↓
-AI Use Cases / Projects
-↓
-Operational Controls & Measurement
+Stakeholder Response:
 
-The objective is not necessarily to find a document containing all these elements. Evidence may exist across multiple organizational artifacts.
+“Responsibility is generally shared between the business owner, IT, and the relevant technical team. The business owner is responsible for the use case, while technical teams manage the system. Significant issues can be escalated to management when required.”
 
-2.6 Follow up questions
-“Could you show us the criteria or governance mechanism used to assess whether an AI initiative aligns with those objectives?”
-“How are decisions currently made regarding which AI initiatives should be prioritized or approved?
-“Understood. How do those principles translate into specific organizational objectives or decision criteria for individual AI initiatives?”
+Consultant Assessment
 
-2.7 Consultant Assessment
-he assessment should distinguish between:
+The organization has distributed responsibilities across business and technical functions. However, the response does not identify a clearly defined accountable role with overall responsibility for AI governance and risk management.
 
-Policy exists
-≠
-Policy provides organizational direction
+Assessment: Partially established.
 
-and
+4. Follow-Up Investigation
+Question 2 – Decision Authority
 
-AI objectives are discussed
-≠
-AI objectives are formally established, communicated, and used for decision-making
+Consultant:
 
-The consultant should therefore assess:
+“When there is a disagreement between business objectives and identified AI risks, who has the authority to make the final decision regarding whether the AI use case proceeds?”
 
-Whether AI objectives exist.
-Whether leadership has established or approved them.
-Whether they are documented or otherwise demonstrable.
-Whether they influence AI initiative selection and prioritization.
-Whether they are connected to AI risk management.
-Whether they are communicated to relevant stakeholders.
+Stakeholder Response:
 
-2.8 Potential Finding
-If sufficient evidence is not available:
+“The business owner generally makes the decision in consultation with the technical and risk teams. Higher-risk matters may be escalated to senior management.”
 
-Finding: The organization has established general principles for responsible AI use; however, the current governance framework does not clearly demonstrate how organizational objectives for AI are defined, approved, communicated, and translated into decision-making for AI initiatives.
+Consultant Assessment
 
-Potential impact:
-Without clearly defined AI objectives and leadership direction, AI initiatives may be pursued inconsistently, making it difficult to demonstrate alignment between AI adoption, organizational priorities, and the organization's risk posture.
+Decision-making authority exists in practice, but the escalation threshold and formal decision authority for higher-risk AI use cases are not clearly documented.
 
-Evidence required for closure:
-Documented AI objectives/strategy, leadership approval or governance evidence, and evidence demonstrating how these objectives are used in AI initiative decision-making.
+Assessment: Potential governance gap.
+
+5. Follow-Up Investigation
+Question 3 – Control Ownership
+
+Consultant:
+
+“For controls such as human review, risk assessment, monitoring, and escalation, how is ownership assigned and how do you verify that each control is being performed?”
+
+Stakeholder Response:
+
+“The relevant team is expected to perform the control. Managers are responsible for ensuring their teams follow the process, but there is no centralized control-owner register specifically for AI.”
+
+Consultant Assessment
+
+Operational responsibility exists; however, the organization does not currently maintain a centralized mechanism identifying AI control owners and demonstrating accountability for control effectiveness.
+
+Assessment: Gap identified.
+
+6. Evidence Requested
+
+The following evidence was requested:
+
+Evidence	Status	Assessment
+AI Governance Roles / RACI	Partially available	Requires enhancement
+AI Policy	Available	Reviewed
+AI Risk Ownership Records	Not available	Gap
+AI Control Owner Register	Not available	Gap
+AI Governance Committee Structure	Not available	Gap
+AI Escalation / Decision Authority	Partially documented	Further review required
+7. Validated Observation
+
+The stakeholder discussion confirmed that responsibilities for AI activities are distributed across business, technical, and management functions.
+
+However, the organization does not currently have sufficient documented evidence demonstrating:
+
+Overall accountability for AI governance.
+Formal ownership of AI-related risks.
+Ownership of individual AI controls.
+Clearly defined escalation thresholds.
+Decision authority for higher-risk AI use cases.
+
+The original document-review observation is therefore validated and expanded.
+
+8. Governance Impact
+
+Unclear accountability may result in:
+
+Delayed escalation of AI-related risks.
+Ambiguity regarding who is responsible when controls fail.
+Inconsistent risk decisions across AI initiatives.
+Difficulty demonstrating management oversight.
+Gaps between policy requirements and operational execution.
+
+The risk is particularly significant where AI systems can influence safety, compliance, customer decisions, or other high-impact outcomes.
+
+9. Finding
+
+Finding ID: GOV-02
+
+Title: AI governance accountability and control ownership are not formally defined.
+
+Finding:
+
+The organization has distributed responsibilities for AI activities across business, technical, and management functions. However, a formal accountability structure defining overall AI governance ownership, AI risk ownership, individual control ownership, and decision-making authority for higher-risk AI use cases was not evidenced.
+
+Severity: Medium
+
+Status: Validated
+
+10. Recommendation
+
+Establish a formal AI governance accountability structure covering the AI lifecycle.
+
+The organization should define:
+
+Overall AI governance accountability.
+Business ownership for individual AI use cases.
+AI risk ownership.
+Ownership of key AI controls.
+Decision-making authority for high-risk AI use cases.
+Escalation thresholds and responsibilities.
+Management oversight responsibilities.
+Periodic review of roles and accountability.
+
+A RACI or equivalent accountability matrix should be maintained for significant AI use cases.
+
+11. Example Control Ownership Structure
+Activity	Accountable	Responsible	Consulted
+AI Use Case Approval	Business Management	Business Owner	Risk / Technical
+AI Risk Assessment	AI Risk Owner	Project / Risk Team	Technical / Business
+Technical Validation	Technical Owner	Development Team	Quality / SME
+Human Oversight	Business Owner	Operational Team	Risk
+AI Incident Escalation	AI Governance Owner	Incident Owner	Business / Technical
+Control Monitoring	Control Owner	Operational Team	Governance
+Periodic Governance Review	AI Governance Owner	Governance Team	Business / Risk
+
+The matrix is illustrative and should be tailored to the organization's operating model.
+
+12. Required Follow-Up Evidence
+
+To close the finding, the organization should provide:
+
+Approved AI governance RACI.
+Named owners for significant AI risks and controls.
+Documented escalation thresholds.
+Defined decision authority for higher-risk AI use cases.
+Evidence of periodic management review.
+Evidence that accountability is communicated to relevant personnel.
+13. Framework Traceability
+Finding	ISO/IEC 42001	NIST AI RMF
+GOV-02	Leadership, roles, responsibilities and authorities within the AIMS	GOVERN – organizational accountability and responsibility
+
+Note: Detailed clause-level mapping is maintained in the framework traceability matrix.
