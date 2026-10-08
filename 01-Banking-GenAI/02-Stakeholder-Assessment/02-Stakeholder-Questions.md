@@ -29,7 +29,7 @@ Initial assessment: Potential gap requiring stakeholder validation.
 3. Stakeholder Discussion
 Question 1 – Accountability
 
-Consultant:
+What I asked:
 
 “Who is ultimately accountable for ensuring that AI-related risks are identified, managed, and monitored throughout the AI lifecycle?”
 
@@ -37,7 +37,7 @@ Stakeholder Response:
 
 “Responsibility is generally shared between the business owner, IT, and the relevant technical team. The business owner is responsible for the use case, while technical teams manage the system. Significant issues can be escalated to management when required.”
 
-Consultant Assessment
+My Assessment
 
 The organization has distributed responsibilities across business and technical functions. However, the response does not identify a clearly defined accountable role with overall responsibility for AI governance and risk management.
 
@@ -46,7 +46,7 @@ Assessment: Partially established.
 4. Follow-Up Investigation
 Question 2 – Decision Authority
 
-Consultant:
+What I asked:
 
 “When there is a disagreement between business objectives and identified AI risks, who has the authority to make the final decision regarding whether the AI use case proceeds?”
 
@@ -54,7 +54,7 @@ Stakeholder Response:
 
 “The business owner generally makes the decision in consultation with the technical and risk teams. Higher-risk matters may be escalated to senior management.”
 
-Consultant Assessment
+My Assessment
 
 Decision-making authority exists in practice, but the escalation threshold and formal decision authority for higher-risk AI use cases are not clearly documented.
 
@@ -63,7 +63,7 @@ Assessment: Potential governance gap.
 5. Follow-Up Investigation
 Question 3 – Control Ownership
 
-Consultant:
+What I asked:
 
 “For controls such as human review, risk assessment, monitoring, and escalation, how is ownership assigned and how do you verify that each control is being performed?”
 
@@ -71,7 +71,7 @@ Stakeholder Response:
 
 “The relevant team is expected to perform the control. Managers are responsible for ensuring their teams follow the process, but there is no centralized control-owner register specifically for AI.”
 
-Consultant Assessment
+My Assessment
 
 Operational responsibility exists; however, the organization does not currently maintain a centralized mechanism identifying AI control owners and demonstrating accountability for control effectiveness.
 
@@ -88,6 +88,7 @@ AI Risk Ownership Records	Not available	Gap
 AI Control Owner Register	Not available	Gap
 AI Governance Committee Structure	Not available	Gap
 AI Escalation / Decision Authority	Partially documented	Further review required
+
 7. Validated Observation
 
 The stakeholder discussion confirmed that responsibilities for AI activities are distributed across business, technical, and management functions.
