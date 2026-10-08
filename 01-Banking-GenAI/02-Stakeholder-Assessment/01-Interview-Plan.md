@@ -1,4 +1,4 @@
-who I need to talk to and why:
+Questions to be asked from stakeholders
 
 Stakeholder: What you want to validate
 AI/Product Owner: AI purpose, objectives, accountability
